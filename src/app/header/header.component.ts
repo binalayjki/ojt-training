@@ -7,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
+  title = 'OJT Training Application';
+  greeting = 'Hahaha';
+
   constructor() { }
 
   ngOnInit() {
