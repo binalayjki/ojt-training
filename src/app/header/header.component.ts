@@ -9,6 +9,8 @@ export class HeaderComponent implements OnInit {
 
   title = 'OJT Training Application';
   greeting = 'Hahaha';
+  good="ragraph";
+
 
   constructor() { }
 
